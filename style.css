@@ -1,11 +1,8 @@
 #Recipes {
     text-align: center;
-  font-family: "Merriweather", serif;
-  font-optical-sizing: auto;
-  font-weight: <weight>;
-  font-style: normal;
-  color: pink;
+  color:pink;
 }
+
 body {
     background-color: rgb(235, 193, 200);
-}
+} 
